@@ -8,6 +8,7 @@
 
 * 官方站点 [midrai.cn](https://midrai.cn)
 * 官方论坛 [bbs.midrai.cn](https://bbs.midrai.cn)
+* 公开文档 [doc.midrai.cn](https://doc.midrai.cn)
 * 我们的 Telegram 频道 [@CrackMiDrAi_Notice](https://t.me/CrackMiDrAi_Notice)
 * Telegram 交流群 [@CrackMiDrAi](https://t.me/CrackMiDrAi)
 
